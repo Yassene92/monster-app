@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//habbazi.github.io/Monsters-R.git/static/css/main.7f1e6cef.chunk.css",
-    "main.js": "/https//habbazi.github.io/Monsters-R.git/static/js/main.d03a0c20.chunk.js",
-    "main.js.map": "/https//habbazi.github.io/Monsters-R.git/static/js/main.d03a0c20.chunk.js.map",
-    "runtime-main.js": "/https//habbazi.github.io/Monsters-R.git/static/js/runtime-main.9b8133ab.js",
-    "runtime-main.js.map": "/https//habbazi.github.io/Monsters-R.git/static/js/runtime-main.9b8133ab.js.map",
-    "static/js/2.42cb6540.chunk.js": "/https//habbazi.github.io/Monsters-R.git/static/js/2.42cb6540.chunk.js",
-    "static/js/2.42cb6540.chunk.js.map": "/https//habbazi.github.io/Monsters-R.git/static/js/2.42cb6540.chunk.js.map",
-    "static/js/3.5302c058.chunk.js": "/https//habbazi.github.io/Monsters-R.git/static/js/3.5302c058.chunk.js",
-    "static/js/3.5302c058.chunk.js.map": "/https//habbazi.github.io/Monsters-R.git/static/js/3.5302c058.chunk.js.map",
-    "index.html": "/https//habbazi.github.io/Monsters-R.git/index.html",
-    "static/css/main.7f1e6cef.chunk.css.map": "/https//habbazi.github.io/Monsters-R.git/static/css/main.7f1e6cef.chunk.css.map",
-    "static/js/2.42cb6540.chunk.js.LICENSE.txt": "/https//habbazi.github.io/Monsters-R.git/static/js/2.42cb6540.chunk.js.LICENSE.txt"
+    "main.css": "/https//habbazi.github.io/Monsters.git/static/css/main.7f1e6cef.chunk.css",
+    "main.js": "/https//habbazi.github.io/Monsters.git/static/js/main.d03a0c20.chunk.js",
+    "main.js.map": "/https//habbazi.github.io/Monsters.git/static/js/main.d03a0c20.chunk.js.map",
+    "runtime-main.js": "/https//habbazi.github.io/Monsters.git/static/js/runtime-main.54a7762d.js",
+    "runtime-main.js.map": "/https//habbazi.github.io/Monsters.git/static/js/runtime-main.54a7762d.js.map",
+    "static/js/2.42cb6540.chunk.js": "/https//habbazi.github.io/Monsters.git/static/js/2.42cb6540.chunk.js",
+    "static/js/2.42cb6540.chunk.js.map": "/https//habbazi.github.io/Monsters.git/static/js/2.42cb6540.chunk.js.map",
+    "static/js/3.5302c058.chunk.js": "/https//habbazi.github.io/Monsters.git/static/js/3.5302c058.chunk.js",
+    "static/js/3.5302c058.chunk.js.map": "/https//habbazi.github.io/Monsters.git/static/js/3.5302c058.chunk.js.map",
+    "index.html": "/https//habbazi.github.io/Monsters.git/index.html",
+    "static/css/main.7f1e6cef.chunk.css.map": "/https//habbazi.github.io/Monsters.git/static/css/main.7f1e6cef.chunk.css.map",
+    "static/js/2.42cb6540.chunk.js.LICENSE.txt": "/https//habbazi.github.io/Monsters.git/static/js/2.42cb6540.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b8133ab.js",
+    "static/js/runtime-main.54a7762d.js",
     "static/js/2.42cb6540.chunk.js",
     "static/css/main.7f1e6cef.chunk.css",
     "static/js/main.d03a0c20.chunk.js"
